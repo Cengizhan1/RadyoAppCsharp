@@ -1,0 +1,14 @@
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\obj\Debug\Radyo programı.csprojAssemblyReference.cache
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\obj\Debug\Interop.WMPLib.dll
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\obj\Debug\Radyo programı.csproj.ResolveComReference.cache
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\obj\Debug\Radyo_programı.Form1.resources
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\obj\Debug\Radyo_programı.Properties.Resources.resources
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\obj\Debug\Radyo programı.csproj.GenerateResource.cache
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\bin\Debug\Radyo programı.exe.config
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\bin\Debug\Radyo programı.exe
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\bin\Debug\Radyo programı.pdb
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\obj\Debug\Radyo programı.exe
+C:\Users\Cengizhan\Desktop\C# Çalısmalar\Radyo programı\Radyo programı\obj\Debug\Radyo programı.pdb
